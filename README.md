@@ -23,6 +23,6 @@
 
 #### Links
 
-	* http://javadox.com/com.whalin/Memcached-Java-Client/3.0.0/overview-summary.html
-	
-	* https://www.tutorialspoint.com/memcached/
+* http://javadox.com/com.whalin/Memcached-Java-Client/3.0.0/overview-summary.html
+
+* https://www.tutorialspoint.com/memcached/
